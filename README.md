@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving\&color=0:111111,50:263238,100:1565C0\&height=200\&section=header\&text=Yestin%20Cruz\&fontSize=48\&fontColor=000000\&fontAlignY=38\&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving\&color=0:111111,50:263238,100:1565C0\&height=200\&section=header\&text=Yestin%20Cruz\&fontSize=48\&fontColor=FFFFFF\&fontAlignY=38\&animation=fadeIn)
 
 <div align="center">
 
