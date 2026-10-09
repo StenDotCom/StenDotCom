@@ -1,16 +1,28 @@
-## Hi there 👋
 
-<!--
-**StenDotCom/StenDotCom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Yestin Cruz! 👋
 
-Here are some ideas to get you started:
+### 💻 Computer Engineering Student
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm passionate about exploring technology and building projects in:
+
+- 🔌 Embedded Systems
+- ⚡ Electronics
+- 💻 Software Development
+- 🎨 UI/UX Design
+- 📐 AutoCAD & Technical Drawing
+
+### 🛠️ Currently Learning
+- Programming and software development
+- Microcontrollers and embedded systems
+- CAD design and technical drafting
+
+### 🎯 Goals
+To improve my technical skills, build useful projects, and continue learning new technologies.
+
+### 📫 Connect with Me
+
+- 📘 Facebook: [@cruuxxx](https://www.facebook.com/cruuxxx/)
+- 📸 Instagram: [@sten.com_](https://www.instagram.com/sten.com_/)
+
+---
+⭐ *Always learning, always building.*
